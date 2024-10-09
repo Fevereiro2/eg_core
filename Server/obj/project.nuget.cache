@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3OfgWhKqxAQ5JYK4u2Ta5XItdavHUbAY/VTo2bM4HYJ4hZpXrY8fJ/ZKqWOrGM72Puty5zFLeJ+V2QZ9uZXwqg==",
+  "success": true,
+  "projectFilePath": "D:\\2023-2024\\github\\eg_core\\Server\\eg_core.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\citizenfx.core.server\\1.0.10230\\citizenfx.core.server.1.0.10230.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

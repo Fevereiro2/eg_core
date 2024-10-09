@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = eg_core.Client
+build_property.ProjectDir = D:\2023-2024\github\eg_core\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
